@@ -1,0 +1,18 @@
+[submodule "sippo"]
+	path = sippo
+	url = https://github.com/sippohippo/sdsphd20_portfolio_sr.git
+[submodule "elisabethgronhoj"]
+	path = elisabethgronhoj
+	url = https://github.com/elisabethgronhoj/SDS2020.git
+[submodule "fkoeppe"]
+	path = fkoeppe
+	url = https://github.com/FKoeppe/sdsphd20_portfolio_fk.git
+[submodule "jonasgr"]
+	path = jonasgr
+	url = https://github.com/jonasgr5/SDS_PHD_2020_JFG.git
+[submodule "anapss"]
+	path = anapss
+	url = https://github.com/Anapss94/sdsphd2020_course.git
+[submodule "casperfibaek"]
+	path = casperfibaek
+	url = https://github.com/casperfibaek/Social-Data-Science.git
