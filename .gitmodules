@@ -16,3 +16,9 @@
 [submodule "casperfibaek"]
 	path = casperfibaek
 	url = https://github.com/casperfibaek/Social-Data-Science.git
+[submodule "jacobo"]
+	path = jacobo
+	url = https://github.com/JacoBotha-aau/JacoBotha_SDSPHD20_PortfolioAssignmentAnswers.ipynb
+[submodule "dimoreno"]
+	path = dimoreno
+	url = https://github.com/dimoreno1992/SocialPythonML
