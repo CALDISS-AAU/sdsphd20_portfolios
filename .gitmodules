@@ -22,3 +22,6 @@
 [submodule "dimoreno"]
 	path = dimoreno
 	url = https://github.com/dimoreno1992/SocialPythonML
+[submodule "janskype"]
+	path = janskype
+	url = https://github.com/jannikskytt/The-Social-Data-Science-PhD-Course-2020
