@@ -25,3 +25,6 @@
 [submodule "janskype"]
 	path = janskype
 	url = https://github.com/jannikskytt/The-Social-Data-Science-PhD-Course-2020
+[submodule "masula"]
+	path = masula
+	url = https://github.com/msl93/sdsphd20_portfolio_msl
